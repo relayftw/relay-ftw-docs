@@ -7,3 +7,7 @@
 	color: #EE961C;
 	font-weight: bold;
 }
+
+b {
+  color: #1a237e; /* Matches your indigo theme */
+}
