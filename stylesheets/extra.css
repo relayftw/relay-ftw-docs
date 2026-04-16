@@ -1,13 +1,3 @@
-.md-header__button.md-logo img {
-    height: 2rem; /* Adjust this to make your logo bigger */
-    width: auto;
-}
-
-.logo-orange {
-	color: #EE961C;
-	font-weight: bold;
-}
-
-b {
-  color: #1a237e; /* Matches your indigo theme */
+h1 .logo-orange {
+  color: #FF8C00 !important;
 }
