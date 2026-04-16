@@ -2,3 +2,8 @@
     height: 2rem; /* Adjust this to make your logo bigger */
     width: auto;
 }
+
+.logo-orange {
+	color: #EE961C;
+	font-weight: bold;
+}
