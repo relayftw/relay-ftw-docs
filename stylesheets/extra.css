@@ -76,3 +76,22 @@
     transform: translateY(-5px);
     filter: drop-shadow(0 30px 50px rgba(0,0,0,0.18));
 }
+
+.screenshot-grid {
+    display: flex;
+    gap: 15px;
+    margin: 10px 0;
+}
+
+.screenshot-grid img {
+    border-radius: 8px;
+    border: 1px solid #e0e0e0;
+    width: 120px; /* Adjust as needed */
+    height: auto;
+    cursor: pointer;
+    transition: transform 0.2s;
+}
+
+.screenshot-grid img:hover {
+    transform: scale(1.05);
+}
